@@ -1,0 +1,1040 @@
+0302}There's a lever…
+Will you pull it?{07}
+====
+44655
+---
+{0302}There's a button…
+Will you push it?{07}
+---
+{0302}There's a button…
+Will you push it?{07}
+====
+44697
+---
+{0302}There was a sound from the
+room next door…{03020600}
+---
+{0302}There was a sound from the
+room next door…{03020600}
+====
+44746
+---
+{0302}An electro-lock panel
+Deseja examinar isso?{07}
+---
+{0302}An electro-lock panel
+Deseja examinar isso?{07}
+====
+44786
+---
+{0300}The sprinkler system has 
+been activated!{0302065a}
+---
+{0300}The sprinkler system has 
+been activated!{0302065a}
+====
+44834
+---
+{0302}The water's changing color…{03000614}
+{0300}It's poisonous!{0628}
+---
+{0302}The water's changing color…{03000614}
+{0300}It's poisonous!{0628}
+====
+44888
+---
+{0302}
+ I've gotta stop this water somehow!{03020600}
+---
+{0302}
+ I've gotta stop this water somehow!{03020600}
+====
+44932
+---
+{0302}
+There is a valve here.{0600020302}
+Turn the valve? {07}
+---
+{0302}
+There is a valve here.{0600020302}
+Turn the valve? {07}
+====
+44984
+---
+{0302}The value handle is stuck
+and will not move.{0600}
+---
+{0302}The value handle is stuck
+and will not move.{0600}
+====
+45034
+---
+{0300}
+Hurry!{0301062d}
+---
+{0300}
+Hurry!{0301062d}
+====
+45048
+---
+{0302}
+"Emergency Exit"{03010600}
+---
+{0302}
+"Emergency Exit"{03010600}
+====
+45072
+---
+{0302}The elevator does not 
+work…{03010600}
+---
+{0302}The elevator does not 
+work…{03010600}
+====
+45107
+---
+{0302}There's a ladder…
+Will you descend it?{030107}
+---
+{0302}There's a ladder…
+Will you descend it?{030107}
+====
+45154
+---
+{0302}
+There's no turning back!{03010600}
+---
+{0302}
+There's no turning back!{03010600}
+====
+45186
+---
+{0300}This is Brad, 
+running out of fuel.{0301065a020300}If there is anyone alive,
+contact me now, okay?{0301066c020300}
+This is your last…{03010650}
+---
+{0300}This is Brad, 
+running out of fuel.{0301065a020300}If there is anyone alive,
+contact me now, okay?{0301066c020300}
+This is your last…{03010650}
+====
+45308
+---
+{0302}
+The battery is pulled out…{03010600}
+---
+{0302}
+The battery is pulled out…{03010600}
+====
+45342
+---
+{0300}
+Oh no, you must be kidding.{03010632020300}After you've come all the
+way here.{0301066402} 
+{0300}
+Ladies first. Go first, Jill!{03010646020300}
+But Chris!{03010623020300}Give me a chance to
+play nice guy.{0301065a020300}Okay, I'll leave it up to you.
+See you again at the heliport.{030106aa}
+---
+{0300}
+Oh no, you must be kidding.{03010632020300}After you've come all the
+way here.{0301066402} 
+{0300}
+Ladies first. Go first, Jill!{03010646020300}
+But Chris!{03010623020300}Give me a chance to
+play nice guy.{0301065a020300}Okay, I'll leave it up to you.
+See you again at the heliport.{030106aa}
+====
+45585
+---
+{0300}Damnit! We have only one
+more step to go.{0301066e020300}
+Okay, I'll go!{03010632020300}Jill, you try to
+contact Brad.{03010650020300}
+Okay.{0301063c}
+---
+{0300}Damnit! We have only one
+more step to go.{0301066e020300}
+Okay, I'll go!{03010632020300}Jill, you try to
+contact Brad.{03010650020300}
+Okay.{0301063c}
+====
+45705
+---
+{0300}I made it, I set off the
+triggering system to the bomb.{03010678020300}Great! Rebecca, Brad's up
+in the helicopter.{03010682}
+---
+{0300}I made it, I set off the
+triggering system to the bomb.{03010678020300}Great! Rebecca, Brad's up
+in the helicopter.{03010682}
+====
+45818
+---
+{0300}
+Look at those monsters!!!!{03010664020300}
+Let me take care of them.{0301063c020300}
+But…{03010628020300}Chris, get in contact
+with Brad right away.{03010650020300}
+Okay.{03010628}
+---
+{0300}
+Look at those monsters!!!!{03010664020300}
+Let me take care of them.{0301063c020300}
+But…{03010628020300}Chris, get in contact
+with Brad right away.{03010650020300}
+Okay.{03010628}
+====
+45960
+---
+{0300}
+Let me take care of them.{0301063c020300}
+But…{03010628020300}Chris, get in contact
+with Brad right away.{03010650020300}
+Okay.{03010628}
+---
+{0300}
+Let me take care of them.{0301063c020300}
+But…{03010628020300}Chris, get in contact
+with Brad right away.{03010650020300}
+Okay.{03010628}
+====
+46068
+---
+{0300}
+Look at those monsters!{03010646020300}Chris, if Brad is in
+the helicopter,{03010654020300}get in contact with him
+by any means!{03010655020300}
+But…{03010628020300}
+I'll hold back the monsters!{03010654020300}
+Okay, I trust you.{0301064a020300}
+Trust me!{03010646}
+---
+{0300}
+Look at those monsters!{03010646020300}Chris, if Brad is in
+the helicopter,{03010654020300}get in contact with him
+by any means!{03010655020300}
+But…{03010628020300}
+I'll hold back the monsters!{03010654020300}
+Okay, I trust you.{0301064a020300}
+Trust me!{03010646}
+====
+46277
+---
+{0300}This is Brad,
+I have a fuel shortage.{0301065a020300}
+Okay, this is the last try.{0301066c020300}If somebody's alive,
+please send a sign…{03010650}
+---
+{0300}This is Brad,
+I have a fuel shortage.{0301065a020300}
+Okay, this is the last try.{0301066c020300}If somebody's alive,
+please send a sign…{03010650}
+====
+46403
+---
+{0301}There's no reaction…  
+It has no power…{03010600}
+---
+{0301}There's no reaction…  
+It has no power…{03010600}
+====
+46449
+---
+{0300}There is 3 minutes
+until explosion.{03010664}
+---
+{0300}There is 3 minutes
+until explosion.{03010664}
+====
+46494
+---
+{0300}
+Oh no, you must be kidding.{03010650020300}After you've come all the
+way here.{03010634020300}
+Ladies first. Go first, Jill!{03010646020300}
+But Chris!{03010623020300}Give me a chance to
+play nice guy.{0301065a020300}Okay, I'll leave it up to you.
+See you again at the heliport.{030106aa}
+---
+{0300}
+Oh no, you must be kidding.{03010650020300}After you've come all the
+way here.{03010634020300}
+Ladies first. Go first, Jill!{03010646020300}
+But Chris!{03010623020300}Give me a chance to
+play nice guy.{0301065a020300}Okay, I'll leave it up to you.
+See you again at the heliport.{030106aa}
+====
+46735
+---
+{0300}Damnit! We have only one
+more step to go.{0301066e020300}
+Okay, I'll go!{03010632020300}Jill, you try to
+contact Brad.{0301065a020300}
+Okay.{0301063c}
+---
+{0300}Damnit! We have only one
+more step to go.{0301066e020300}
+Okay, I'll go!{03010632020300}Jill, you try to
+contact Brad.{0301065a020300}
+Okay.{0301063c}
+====
+46855
+---
+{0300}
+Look at those monsters!{03010646020300}Chris, if Brad is in
+the helicopter,{03010654020300}get in contact with him
+by any means!{03010655020300}
+But…{03010628020300}
+I'll hold back the monsters!{03010654020300}
+Okay, I trust you.{03010654020300}
+Trust me!{03010646}
+---
+{0300}
+Look at those monsters!{03010646020300}Chris, if Brad is in
+the helicopter,{03010654020300}get in contact with him
+by any means!{03010655020300}
+But…{03010628020300}
+I'll hold back the monsters!{03010654020300}
+Okay, I trust you.{03010654020300}
+Trust me!{03010646}
+====
+47064
+---
+{0300}There is 3 minutes
+until explosion.{03010664}
+---
+{0300}There is 3 minutes
+until explosion.{03010664}
+====
+47107
+---
+{0300}
+I… Jill… it's you.{0301068c}
+---
+{0300}
+I… Jill… it's you.{0301068c}
+====
+47133
+---
+{0300}
+Barry!?{0301063c020300}I'm really embarrassed to
+see you now.{03010673020300}Jus-just leave me,
+go-go quickly.{03010673020300}It's over Barry.
+Wesker's dead!{03010682}
+---
+{0300}
+Barry!?{0301063c020300}I'm really embarrassed to
+see you now.{03010673020300}Jus-just leave me,
+go-go quickly.{03010673020300}It's over Barry.
+Wesker's dead!{03010682}
+====
+47271
+---
+{0300}Is that so? Jill,
+will you do me a favor?{0301065a020300}
+This is my last… wish.{030106f9020300}P-Please, give this photo
+to my family… will you?{030106dc020300}
+Sure.{03010646020300}
+Forgive me… Jill… uhh{030106c7}
+---
+{0300}Is that so? Jill,
+will you do me a favor?{0301065a020300}
+This is my last… wish.{030106f9020300}P-Please, give this photo
+to my family… will you?{030106dc020300}
+Sure.{03010646020300}
+Forgive me… Jill… uhh{030106c7}
+====
+47447
+---
+{0300}Let's get going, Chris.
+We can't stop.{03010664}
+---
+{0300}Let's get going, Chris.
+We can't stop.{03010664}
+====
+47492
+---
+{0300}
+Let's go!{0301061e}
+---
+{0300}
+Let's go!{0301061e}
+====
+47510
+---
+{0300}
+Let's get going.{0301061e}
+---
+{0300}
+Let's get going.{0301061e}
+====
+47535
+---
+{0300}
+Jill!{03010623}
+---
+{0300}
+Jill!{03010623}
+====
+47548
+---
+{0300}
+MY GOD!{03010623}
+---
+{0300}
+MY GOD!{03010623}
+====
+47563
+---
+{0300}
+Let's go!{0301063c}
+---
+{0300}
+Let's go!{0301063c}
+====
+47581
+---
+{0302}He must have been attacked
+by those monsters…{03010600}
+---
+{0302}He must have been attacked
+by those monsters…{03010600}
+====
+47633
+---
+{0300}
+Barry!?{0301063c020300}I'm really embarrassed to
+see you now.{03010673020300}Jus-just leave me,
+go-go quickly.{03010651020300}It's over Barry.
+Wesker's dead!{03010682}
+---
+{0300}
+Barry!?{0301063c020300}I'm really embarrassed to
+see you now.{03010673020300}Jus-just leave me,
+go-go quickly.{03010651020300}It's over Barry.
+Wesker's dead!{03010682}
+====
+47771
+---
+{0300}Is that so? Jill,
+will you do me a favor?{030106c8020300}
+This is my last… wish.{0301066e020300}P-Please, give this photo
+to my family… will you?{030106e6020300}
+Sure.{03010632020300}
+Forgive me… Jill… uhh{030106c7}
+---
+{0300}Is that so? Jill,
+will you do me a favor?{030106c8020300}
+This is my last… wish.{0301066e020300}P-Please, give this photo
+to my family… will you?{030106e6020300}
+Sure.{03010632020300}
+Forgive me… Jill… uhh{030106c7}
+====
+47947
+---
+{0302}It's electronically 
+locked…{03010600}
+---
+{0302}It's electronically 
+locked…{03010600}
+====
+47982
+---
+{0302}
+There's a plate…{0301060002}
+"Visual Data Room"{03010600}
+---
+{0302}
+There's a plate…{0301060002}
+"Visual Data Room"{03010600}
+====
+48031
+---
+{0300}Umbrella Corp.
+Bio-Weapon Materials{031e} {0600020601}
+---
+{0300}Umbrella Corp.
+Bio-Weapon Materials{031e} {0600020601}
+====
+48077
+---
+{0300}
+MA-39 Cerberus{031e} {0600020601}
+---
+{0300}
+MA-39 Cerberus{031e} {0600020601}
+====
+48103
+---
+{0300}
+Fi-3 Neptune{031e} {0600020601}
+---
+{0300}
+Fi-3 Neptune{031e} {0600020601}
+====
+48127
+---
+{0300}
+MA-121 Hunter{031e} {0600020601}
+---
+{0300}
+MA-121 Hunter{031e} {0600020601}
+====
+48152
+---
+{0300}
+T-002 Tyrant{031e} {0600020601}
+---
+{0300}
+T-002 Tyrant{031e} {0600020601}
+====
+48176
+---
+{031e} {0600020601}
+---
+{031e} {0600020601}
+====
+48185
+---
+{0300}Bio-Weapon Research 
+Institute. R & D staff{031e} {0600020601}
+---
+{0300}Bio-Weapon Research 
+Institute. R & D staff{031e} {0600020601}
+====
+48239
+---
+{0302}Something has been dragged 
+around the wall…{03010600}
+---
+{0302}Something has been dragged 
+around the wall…{03010600}
+====
+48290
+---
+{0302}There's a panel…
+Will you  open it?{030107}
+---
+{0302}There's a panel…
+Will you  open it?{030107}
+====
+48334
+---
+{0302}There's a switch…
+Will you push it?{030107}
+---
+{0302}There's a switch…
+Will you push it?{030107}
+====
+48378
+---
+{0302}
+A projector…{03010600}
+---
+{0302}
+A projector…{03010600}
+====
+48398
+---
+{0302}
+A screen…{03010600}
+---
+{0302}
+A screen…{03010600}
+====
+48415
+---
+{0302}An intercom…  It does not 
+seem to be operative…{03010600}
+---
+{0302}An intercom…  It does not 
+seem to be operative…{03010600}
+====
+48470
+---
+{0302}Unfamiliar physics symbols
+are written here…{03010600}
+---
+{0302}Unfamiliar physics symbols
+are written here…{03010600}
+====
+48521
+---
+{0302}Operating Instructions:
+Light all blue buttons to activate.{0600020302}Red lamps deactive
+blue buttons directly below.{0600}
+---
+{0302}Operating Instructions:
+Light all blue buttons to activate.{0600020302}Red lamps deactive
+blue buttons directly below.{0600}
+====
+48639
+---
+{0302}There's a panel…
+Will you open it?{030107}
+---
+{0302}There's a panel…
+Will you open it?{030107}
+====
+48682
+---
+{0302}Operating Instructions:
+Light all blue buttons to activate.{0600020302}Red lamps deactive
+blue buttons directly below.{0600}
+---
+{0302}Operating Instructions:
+Light all blue buttons to activate.{0600020302}Red lamps deactive
+blue buttons directly below.{0600}
+====
+48801
+---
+{0302}It's too dark to see 
+anything…{03010600}
+---
+{0302}It's too dark to see 
+anything…{03010600}
+====
+48839
+---
+{0300}The triggering system has
+now been activated.{03010678020300}All researchers and guards should 
+take cover immediately.{030106b4020300}Unlock all routes 
+for evacuation.{03010682}
+---
+{0300}The triggering system has
+now been activated.{03010678020300}All researchers and guards should 
+take cover immediately.{030106b4020300}Unlock all routes 
+for evacuation.{03010682}
+====
+48997
+---
+{0302}
+No need to go this way...{0600}
+---
+{0302}
+No need to go this way...{0600}
+====
+49029
+---
+This computer is used to
+open the electronic locks…{0302060002}Will you turn it on?{030107}
+---
+This computer is used to
+open the electronic locks…{0302060002}Will you turn it on?{030107}
+====
+49112
+---
+Various chemicals used for
+research…{0302060002}
+Nada de útil...{03020600}
+---
+Various chemicals used for
+research…{0302060002}
+Nada de útil...{03020600}
+====
+49174
+---
+Various devices and
+chemicals…{0302060002}
+Nada de útil...{03020600}
+---
+Various devices and
+chemicals…{0302060002}
+Nada de útil...{03020600}
+====
+49230
+---
+
+An incubator…{0302060002}
+Nada de estranho...{03020600}
+---
+
+An incubator…{0302060002}
+Nada de estranho...{03020600}
+====
+49271
+---
+
+Nada de especial...{03020600}
+---
+
+Nada de especial...{03020600}
+====
+49293
+---
+{0302}There's an operating
+table…{030a0600}
+---
+{0302}There's an operating
+table…{030a0600}
+====
+49327
+---
+{0302}Instruments for operation…
+Some are bloodstained…{030a0600}
+---
+{0302}Instruments for operation…
+Some are bloodstained…{030a0600}
+====
+49383
+---
+{0302}There's an air shaft…
+Will you enter it? {07}
+---
+{0302}There's an air shaft…
+Will you enter it? {07}
+====
+49431
+---
+{0302}
+Poison gas is escaping…!{030a0600}
+---
+{0302}
+Poison gas is escaping…!{030a0600}
+====
+49463
+---
+{0302}
+A corpse is laid here…{030a0600}
+---
+{0302}
+A corpse is laid here…{030a0600}
+====
+49493
+---
+{0302}This place seems to be a
+morgue…{030a0600}
+---
+{0302}This place seems to be a
+morgue…{030a0600}
+====
+49532
+---
+{0302}It's a pass code output
+machine…{030a0600020302}If I had a MO DISK,
+I could get the code…{030a0600}
+---
+{0302}It's a pass code output
+machine…{030a0600020302}If I had a MO DISK,
+I could get the code…{030a0600}
+====
+49619
+---
+{0302}I already have the pass
+code…{030a0600}
+---
+{0302}I already have the pass
+code…{030a0600}
+====
+49655
+---
+{0302}You've obtained the pass
+code…{030a0600}
+---
+{0302}You've obtained the pass
+code…{030a0600}
+====
+49692
+---
+
+A pass code panel…{0600}
+---
+
+A pass code panel…{0600}
+====
+49714
+---
+You don't have the pass
+code…{0600}
+---
+You don't have the pass
+code…{0600}
+====
+49746
+---
+You've entered the pass
+code…{0600}
+---
+You've entered the pass
+code…{0600}
+====
+49778
+---
+{0300}
+Let's get going.{03010641}
+---
+{0300}
+Let's get going.{03010641}
+====
+49803
+---
+It's electronically
+locked…{0600}
+---
+It's electronically
+locked…{0600}
+====
+49833
+---
+
+It's locked…{0600}
+---
+
+It's locked…{0600}
+====
+49852
+---
+{0300}
+Let's go.{03010641}
+---
+{0300}
+Let's go.{03010641}
+====
+49869
+---
+{0302}It's a pass code output
+machine…{060002}If I had a MO DISK,
+I could get the code…{03020600}
+---
+{0302}It's a pass code output
+machine…{060002}If I had a MO DISK,
+I could get the code…{03020600}
+====
+49952
+---
+{0302}I already have the pass
+code…{03020600}
+---
+{0302}I already have the pass
+code…{03020600}
+====
+49988
+---
+{0302}Most of them are fiction
+books…{03020600}
+---
+{0302}Most of them are fiction
+books…{03020600}
+====
+50026
+---
+{0302}Cardboard and posters…
+Nada de útil...{03020600}
+---
+{0302}Cardboard and posters…
+Nada de útil...{03020600}
+====
+50071
+---
+{0302}A switch for the air
+conditioner…{03020600}
+---
+{0302}A switch for the air
+conditioner…{03020600}
+====
+50111
+---
+{0302}The darts have sensors.
+Try them out? {07}
+---
+{0302}The darts have sensors.
+Try them out? {07}
+====
+50156
+---
+{0302}
+The shutter is firmly shut.{0600}
+---
+{0302}
+The shutter is firmly shut.{0600}
+====
+50189
+---
+{0302}There's a switch…
+Will you push it?{07}
+---
+{0302}There's a switch…
+Will you push it?{07}
+====
+50231
+---
+{0304}
+John… Ada…{03020600}
+---
+{0304}
+John… Ada…{03020600}
+====
+50249
+---
+{0302}Something is written on
+the picture…{03020600}
+---
+{0302}Something is written on
+the picture…{03020600}
+====
+50292
+---
+{0302}It's too dark to see
+anything…{03020600}
+---
+{0302}It's too dark to see
+anything…{03020600}
+====
+50329
+---
+{0302}It seems someone used this
+only recently…{03020600}
+---
+{0302}It seems someone used this
+only recently…{03020600}
+====
+50377
+---
+{0302}It's an air conditioner
+switch but is broken…{03020600}
+---
+{0302}It's an air conditioner
+switch but is broken…{03020600}
+====
+50429
+---
+{0300}
+Chris!{0301062d}
+---
+{0300}
+Chris!{0301062d}
+====
+50443
+---
+{0300}
+Jill!{0301062d}
+---
+{0300}
+Jill!{0301062d}
+====
+50456
+---
+{0300}
+Chris, Wesker he is…{03010632020300}
+I-I know.{03010623020300}
+Shoot, it doesn't open!{03010646020300}Look Jill, wait here,
+I'll save you.{03010664020300}
+Okay, I'll wait.{0301063c}
+---
+{0300}
+Chris, Wesker he is…{03010632020300}
+I-I know.{03010623020300}
+Shoot, it doesn't open!{03010646020300}Look Jill, wait here,
+I'll save you.{03010664020300}
+Okay, I'll wait.{0301063c}
+====
+50599
+---
+The door is tightly
+locked…{0600}
+---
+The door is tightly
+locked…{0600}
+====
+50629
+---
+{0300}
+Jill? Is that you, Jill?{03010646}
+---
+{0300}
+Jill? Is that you, Jill?{03010646}
+====
+50661
+---
+{0300}
+Oh Chris, you're alive!!{0301063c}
+---
+{0300}
+Oh Chris, you're alive!!{0301063c}
+====
+50693
+---
+{0300}Of course. Damnit, we're
+in quite a predicament, Jill.{03010673}
+---
+{0300}Of course. Damnit, we're
+in quite a predicament, Jill.{03010673}
+====
+50754
+---
+{0300}I know Chris. Anyway, 
+I have to open this room.{03010678}
+---
+{0300}I know Chris. Anyway, 
+I have to open this room.{03010678}
+====
+50809
+---
+{0300}
+Uhh, it doesn't work!{03010646020300}Well, Chris, I'll be sure to
+come back and help you soon.{03010650020300}
+Will you wait here?{03010628}
+---
+{0300}
+Uhh, it doesn't work!{03010646020300}Well, Chris, I'll be sure to
+come back and help you soon.{03010650020300}
+Will you wait here?{03010628}
+====
+50929
+---
+{0300}Thanks! I'll be waiting
+here for you.{03010650}
+---
+{0300}Thanks! I'll be waiting
+here for you.{03010650}
+====
+50973
+---
+The door is tightly
+locked…{0600}
+---
+The door is tightly
+locked…{0600}
+====
+51005
+---
+{0302}There's no reaction…  
+It has no power…{03010600}
+---
+{0302}There's no reaction…  
+It has no power…{03010600}
+====
+51051
+---
+{0300}
+Chris!{0301061e}
+---
+{0300}
+Chris!{0301061e}
+====
+51065
+---
+{0300}
+Jill!{0301061e}
+---
+{0300}
+Jill!{0301061e}
+====
+51078
+---
+{0300}
+Excuse me, Chris.{0301063c}
+---
+{0300}
+Excuse me, Chris.{0301063c}
+====
+51103
+---
+{0300}
+What, Rebecca?{03010632}
+---
+{0300}
+What, Rebecca?{030
