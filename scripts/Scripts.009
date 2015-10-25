@@ -437,8 +437,8 @@ Water is not supplied…{03020600}
 ====
 66776
 ---
-Pedaços de carne podre....…
-O que será eles cozinharam aqui?{03020600}
+Pedaços de carne podre…
+O que será que eles cozinharam aqui?{03020600}
 ---
 Pedaços de carne podre....…
 O que será eles cozinharam aqui?{03020600}
@@ -655,7 +655,7 @@ Falha ao salvar.
 ====
 67230
 ---
-Arquivo do sistema está
+O arquivo do sistema está
 corrompido ou foi perdido.
 ---
 Arquivo do sistema está
@@ -813,14 +813,14 @@ B5
 ====
 67596
 ---
-Please wait…
+Por favor espere…
 ---
 Please wait…
 ====
 67609
 ---
 {04}
-YOU ESCAPED!
+VOCÊ ESCAPOU!
 ---
 {04}
 YOU ESCAPED!
@@ -891,7 +891,7 @@ Score
 ====
 67765
 ---
-Calculating Team Score…
+Calculando pontos da Equipe…
 ---
 Calculating Team Score…
 ====
@@ -903,13 +903,13 @@ RANK
 ====
 67794
 ---
-Retry
+Tentar Novamente
 ---
 Retry
 ====
 67800
 ---
-Quit
+Sair
 ---
 Quit
 ====
