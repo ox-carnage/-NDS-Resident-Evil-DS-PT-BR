@@ -1,0 +1,18 @@
+r0 = 218ec0
+
+r1 = 84c0
+
+
+r1 = 520c  [213b9b8]
+r2 = 32b4  [213b93c]
+
+
+Ponteiro imagem inicial
+32B4 [4D14] 
+
+Somar com 520C para obter 84C0, o endereço da imagem
+
+Ponteiro Tamanho Ponteiro Tamanho ... 
+
+
+0x4cf4

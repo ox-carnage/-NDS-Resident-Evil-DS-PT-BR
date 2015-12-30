@@ -1,0 +1,9 @@
+00001.bin  -  indice2.bmp / Padding 1024
+00002.bin  -  indice3.bmp
+00004.bin  -  indice5.bmp / Padding 32
+00013.bin  -  indice13.bmp / Padding 96
+00033.bin  -  ind43.bmp
+00041.bin  -  indice42.bmp / Padding 64
+00057.bin  -  indice58.bmp
+00141.bin  -  indice140-4bpp.bmp
+00150.bin  -  indice142.bmp
